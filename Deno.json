@@ -1,0 +1,6 @@
+{
+  "tasks": {
+    "test": "deno test --allow-net tests",
+    "test:watch": "deno test --allow-net --watch tests",
+  }
+}
